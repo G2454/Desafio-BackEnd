@@ -3,7 +3,6 @@
 ## Instruções
 - O desafio é válido para diversos níveis, portanto não se preocupe se não conseguir resolver por completo.
 - A aplicação só será avaliada se estiver rodando, se necessário crie um passo a passo para isso.
-- Faça um clone do repositório em seu git pessoal para iniciar o desenvolvimento e não cite nada relacionado a Mottu.
 - Após teste realizado, favor encaminha-lo via Link abaixo:
 
 ## Requisitos não funcionais 
@@ -18,8 +17,7 @@ Seu objetivo é criar uma aplicação para gerenciar aluguel de motos e entregad
 Iremos executar um teste de integração para validar os cenários de uso. Por isso, sua aplicação deve seguir exatamente as especificações de API`s Rest do nosso Swager: request, response e status code.
 Garanta que os atributos dos JSON`s e estão de acordo com o Swagger abaixo.
 
-Swagger de referência:
-https://app.swaggerhub.com/apis-docs/Mottu/mottu_desafio_backend/1.0.0
+
 
 ### Casos de uso
 - Eu como usuário admin quero cadastrar uma nova moto.

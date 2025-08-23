@@ -9,7 +9,7 @@ Foi desenvolvido parte de uma aplicação para gerenciar o aluguel de motos e en
 
 O que foi desenvolvido:
 - Todas as rotas de motos
-- Todas as rotas de locação
+- Todas as rotas de entregadores
 - Implementação do banco de dados - MongoDB
 - Aplicação rodando com Docker
 - Início da implementação da Locação - Criação do Model
@@ -17,8 +17,9 @@ O que foi desenvolvido:
 O que ficou pendente:
 - Implementação do sistema de mensageria por RabbitMq
 - Regras específicas de negócio provindas de todas as rotas
-- Tratamento de erros
+- Tratamento de respostas e erros
 - Documentação básica no Swagger
+
 
 ## Como rodar a aplicação
 
